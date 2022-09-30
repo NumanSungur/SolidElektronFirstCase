@@ -1,4 +1,4 @@
-# Hamburger Hazırlama Projesi:
+# Solid Elektron First Case:
 
 ## 1-Malzeme Listesi: Tüm malzemelerden 5 er adet olduğu varsayılacaktır.
 Marul
